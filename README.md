@@ -15,8 +15,14 @@
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
- </p>
-<br>
-<br>
+<img src="https://img.shields.io/badge/JSP-4FC08D?style=for-the-badge&logo=JSP&logoColor=white">
+<img src="https://img.shields.io/badge/Servlet-003545?style=for-the-badge&logo=Servlet&logoColor=white">
+<img src="https://img.shields.io/badge/lombok-232F3E?style=for-the-badge&logo=lombok&logoColor=white">
 
+
+</p>
+<br>
+<br>
+<br>
 ![Hyejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=1103kimhyejin&&show_icons=true&theme=onedark)
+
